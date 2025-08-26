@@ -82,6 +82,7 @@ int main (){
     printf("O PIB da Carta 2 é: %f \n", pib2);
     printf("A QTD de pontos turísticos da Carta 2 é: %d \n", ponto2);
 
+    
 
     return 0;
 
